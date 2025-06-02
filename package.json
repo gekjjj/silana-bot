@@ -1,9 +1,9 @@
 {
   "name": "my-node-app",
   "version": "1.0.0",
-  "main": "index.js", // غيّره إن كان اسم الملف الرئيسي مختلفًا (مثلاً: bot.js)
+  "main": "index.js",
   "scripts": {
-    "start": "node index.js" // غيّره حسب اسم الملف الأساسي في مشروعك
+    "start": "node index.js"
   },
   "engines": {
     "node": "20.x"
